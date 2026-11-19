@@ -72,3 +72,5 @@ labs/*_desk/
 *.swp
 .DS_Store
 Thumbs.db
+/labs/lab2_desk_deepseek
+/labs/lab2_desk_cerebras
